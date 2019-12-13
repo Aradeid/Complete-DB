@@ -4,6 +4,7 @@ Initially created as part of a university assignment, I now use it to showacase 
 
 ## Disclaimer
 At the time of writing this program I did not know of OR-mapping, and even if I did, writing the database in this particular way was part of the requirement.
+The *swe.utility* namespace is borrowed and not created by me.
 
 ## Documentation
 The classes reflected in the database are all used under the namespace *complete.types*. These classes are: *Region*, *Sticker*, *User*, *Offer*, and *UserInventory* (an M-to-N relationship between *User* and *Sticker*.
